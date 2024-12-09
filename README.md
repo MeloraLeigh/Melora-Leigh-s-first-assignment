@@ -104,12 +104,14 @@
         <section>
             <h2>Get in Touch</h2>
             <p>If you have questions or comments about this fan page or the movie "Venom", feel free to reach out!</p>
-            <p>Email: <a href="mailto:melora.miller35@gmail.com">your_email@example.com</a></p>
+            <p>Email:
+<a href="mailto:melora.miller35@gmail.com">Contact Me</a>
+</p>
             <p>Follow me on social media:</p>
             <ul>
-                <li><a href="https://twitter.com" target="@SumLike2Smoke2">Twitter</a></li>
-                <li><a href="https://facebook.com" target="MeloraLeigh">Facebook</a></li>
-                <li><a href="https://instagram.com" target="cannabliss.g59">Instagram</a></li>
+                <li><a href="https://twitter.com/SumLike2Smoke2" target="_blank">Twitter</a></li>  
+<li><a href="https://facebook.com/MeloraLeigh" target="_blank">Facebook</a></li>  
+<li><a href="https://instagram.com/cannabliss.g59" target="_blank">Instagram</a></li>
             </ul>
         </section>
     </main>
@@ -123,41 +125,5 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-}
-
-header {
-    background-color: #222;
-    color: white;
-    padding: 10px 0;
-    text-align: center;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-}
-
-main {
-    padding: 20px;
-}
-
-footer {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #222;
-    color: white;
-    position: relative;
-    bottom: 0;
-    width: 100%;
 }
 
