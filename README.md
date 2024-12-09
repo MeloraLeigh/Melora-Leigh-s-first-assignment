@@ -104,12 +104,12 @@
         <section>
             <h2>Get in Touch</h2>
             <p>If you have questions or comments about this fan page or the movie "Venom", feel free to reach out!</p>
-            <p>Email: <a href="mailto:your_email@example.com">your_email@example.com</a></p>
+            <p>Email: <a href="mailto:melora.miller35@gmail.com">your_email@example.com</a></p>
             <p>Follow me on social media:</p>
             <ul>
-                <li><a href="https://twitter.com/SumLike2Smoke2" target="_blank">Twitter</a></li>
-                <li><a href="https://facebook.com/MeloraLeigh" target="_blank">Facebook</a></li>
-                <li><a href="https://instagram.com/CannaBliss.G59" target="_blank">Instagram</a></li>
+                <li><a href="https://twitter.com" target="@SumLike2Smoke2">Twitter</a></li>
+                <li><a href="https://facebook.com" target="MeloraLeigh">Facebook</a></li>
+                <li><a href="https://instagram.com" target="cannabliss.g59">Instagram</a></li>
             </ul>
         </section>
     </main>
