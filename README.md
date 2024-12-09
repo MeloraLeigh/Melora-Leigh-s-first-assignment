@@ -1,9 +1,3 @@
-To create a simple website dedicated to your favorite movie, "Venom", you'll need to create three HTML files: `index.html`, `cast.html`, and `contact.html`. Below is the structured structure of these files along with the appropriate content, links, and descriptions.
-
-### 1. `index.html`
-
-This file serves as the home page of your website, featuring the movie title, a brief summary, and navigation links to the cast and contact pages.
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -39,12 +33,6 @@ This file serves as the home page of your website, featuring the movie title, a 
     </footer>
 </body>
 </html>
-```
-
-### 2. `cast.html`
-
-This file lists the main cast of the movie, their roles, and additional information about each actor and their notable works.
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -98,11 +86,6 @@ This file lists the main cast of the movie, their roles, and additional informat
 </body>
 </html>
 ```
-
-### 3. `contact.html`
-
-This file provides your contact information and provides navigation links to the other pages.
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -142,11 +125,6 @@ This file provides your contact information and provides navigation links to the
 </body>
 </html>
 ```
-
-### CSS Styling (Optional)
-
-To enhance the appearance of the website, you may want to add a simple CSS file (e.g., `styles.css`). Here is an example of what that might look like:
-
 ```css
 body {
     font-family: Arial, sans-serif;
@@ -191,7 +169,3 @@ footer {
     width: 100%;
 }
 ```
-
-### Summary
-
-In summary, you have now created a simple yet informative website about the movie "Venom". The structure includes a homepage with a movie summary, a cast page listing the main actors and their roles, and a contact page with your contact information. Feel free to expand this project further by adding images, more styling, or advanced features such as a backend for form submissions.
