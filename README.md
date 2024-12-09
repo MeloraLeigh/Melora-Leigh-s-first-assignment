@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,8 +32,6 @@
     </footer>
 </body>
 </html>
-```html
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -85,9 +82,6 @@
     </footer>
 </body>
 </html>
-```
-```html
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -124,8 +118,6 @@
     </footer>
 </body>
 </html>
-```
-```css
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -168,4 +160,4 @@ footer {
     bottom: 0;
     width: 100%;
 }
-```
+
